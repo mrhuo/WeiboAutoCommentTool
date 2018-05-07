@@ -28,6 +28,9 @@ weiboAutoCommentTool.stop()
 //查看评论统计
 weiboAutoCommentTool.stat()
 ```
+## 效果截图
+![效果图](screen-shot.jpg)
+
 ## 测试日志（下列记录来自控制台复制）
 ```
 weiboAutoCommentTool.start({
